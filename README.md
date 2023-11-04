@@ -6,7 +6,7 @@
 
 ### 👨‍💻: About Me :
 
-I'm a backend developer and a computer engineering student at La Sabana University. I'm also a GitHub Campus Expert from Colombia. Nice to meet you, and thank you for visiting my profile! 😄
+I'm a backend developer and an informatic engineering student at La Sabana University. I'm also a GitHub Campus Expert from Colombia. Nice to meet you, and thank you for visiting my profile! 😄
 
 I love learning new things, teamwork, facing new challenges, and sipping on orange juice 🍊. Additionally, I have experience in building communities focused on empowering students to acquire new skills and enhance themselves through real projects. Feel free to connect with me; I'd love to meet you and learn from you.
 
