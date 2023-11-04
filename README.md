@@ -29,7 +29,7 @@ I love learning new things, teamwork, facing new challenges, and sipping on oran
 - Grow the CodeBits community.
 - Support and initiate OpenSource projects.
 - Keep improving my skills in back end development and software architecture.
-- Work on interesting and challenging projects, with multidisciplinary teams.
+- Work on interesting and challenging projects with multidisciplinary teams.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,7 +47,6 @@ I love learning new things, teamwork, facing new challenges, and sipping on oran
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### :fire: My Stats :
